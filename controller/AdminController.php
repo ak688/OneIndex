@@ -3,8 +3,8 @@ define('VIEW_PATH', ROOT . 'view/admin/');
 class AdminController
 {
     static $default_config = array(
-        'site_name' => 'OneIndex',
-        'password' => '5d607c0cbd801f4fdec24f9f36d2c32a', /*修改为md5*/
+        'site_name' => 'ak',
+        'password' => '79460264a2e80eb997f3bc51abb9196d', /*修改为md5*/
         'style' => 'material',
         'onedrive_root' => '',
         'cache_type' => 'secache',
